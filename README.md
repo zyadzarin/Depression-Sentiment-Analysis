@@ -8,3 +8,5 @@ Two things to run:
 2) Streamlit App
    in cmd, type and run:
 	>> streamlit run main.py
+	
+A text sentiment analysis depression indicator based on social media text (Twitter).
