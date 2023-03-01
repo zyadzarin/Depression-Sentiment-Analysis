@@ -8,7 +8,7 @@ Two things to run:
 2) Streamlit App
    in cmd, type and run:
 	>> streamlit run main.py
-	
+
 the project aims to provide a tool that predicts
 the likeliness of a person having depression by analyzing the sentiment of their diaries,
 thoughts, social media posts, and any other said words.
@@ -17,3 +17,4 @@ passed in and return the result telling the predicted likeliness of the person h
 depression.
 
 This project is a part of the machine learning WID3006 course
+
